@@ -1,7 +1,7 @@
-WordPress PHP 7.4
-=============
+WordPress PHP 8
+===============
 
-This repo provides a script for easily creating a Docker container with the latest `WordPress`, `PHP 7.4` and the latest `MySQL`
+This repo provides a script for easily creating a Docker container with the latest `WordPress`, `PHP 8` and the latest `MySQL`
 
 Setting the environment up
 --------------------------
