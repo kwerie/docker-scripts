@@ -1,0 +1,5 @@
+DB_NAME=wordpress
+DB_USER=wordpress
+DB_PASSWORD=wordpress
+TABLE_PREFIX=wp_
+PORT=8888
